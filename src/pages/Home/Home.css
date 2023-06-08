@@ -1,0 +1,17 @@
+.search_btn{
+    border: none;
+    background-color: rgb(140, 63, 63);
+}
+.add_btn{
+    border: none;
+    background-color: rgb(140, 63, 63);
+}
+.export_btn{
+    border: none;
+    background-color: rgb(140, 63, 63);
+}
+.search_btn:hover,
+.add_btn:hover,
+.export_btn:hover {
+  background-color: rgb(140, 63, 63);
+}

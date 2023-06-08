@@ -1,0 +1,45 @@
+.dropdown-toggle::after {
+    display: none;
+}
+
+.brown {
+    background-color: rgb(140, 63, 63);
+}
+
+.dropdown_btn {
+    background: none !important;
+    background-color: rgb(140, 63, 63);
+    border: none;
+}
+
+.badge-danger {
+    background-color: rgb(140, 63, 63) !important;
+    height: 1.5rem;
+    font-size: .9rem;
+}
+
+.img_parent img {
+    width: 35px;
+    border-radius: 50%;
+}
+
+/* .font{
+    font-size: 1rem;
+} */
+
+.action {
+    background: none !important;
+    border: none;
+}
+
+.i-col {
+    color: green;
+}
+
+.i-col-2 {
+    color: blue;
+}
+
+.i-col-3 {
+    color: red;
+}

@@ -1,0 +1,12 @@
+.profile_div img{
+    max-width: 56px;
+    border-radius:50%;
+    border: 1px solid #111;
+}
+.submit-col{
+    border: none;
+    background-color: rgb(140, 63, 63);
+}
+.submit-col:hover{
+    background-color: rgb(140, 63, 63);
+}
